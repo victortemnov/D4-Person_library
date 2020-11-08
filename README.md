@@ -1,4 +1,4 @@
-# D4-Person_library
+# Person library
 For getting started, in folder which contains _manage.py_ use `py manage.py runserver`.
 After that u will get the following urls:
 

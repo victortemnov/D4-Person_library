@@ -11,3 +11,8 @@ For use administrator panel use `py manage.py createsuperuser`
 
 NOTE:
   U can delete database, and after command makemigrations create new, but i'm add 2 redactions, ENG / RU for check homework specially.
+  Data superuser ekke:
+  ```
+  login: ekke
+  pass: 1
+  ```

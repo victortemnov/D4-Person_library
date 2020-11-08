@@ -8,3 +8,6 @@ After that u will get the following urls:
   4.  http://127.0.0.1:8000/admin/ - Administrator panel
   
 For use administrator panel use `py manage.py createsuperuser`
+
+NOTE:
+  U can delete database, and after command makemigrations create new, but i'm add 2 redactions, ENG / RU for check homework specially.

@@ -1,5 +1,7 @@
 # Person library
-For getting started, in folder which contains _manage.py_ use `py manage.py runserver`.
+For getting started:
+1. pip install -r requirements.txt
+2. in folder which contains _manage.py_ use `py manage.py runserver`.
 After that u will get the following urls:
 
   1.  http://127.0.0.1:8000/ - List of books

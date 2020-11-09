@@ -17,4 +17,4 @@ login: ekke
 pass: 1
 ********************
 ```
-For create new administrator panel use `py manage.py createsuperuser`
+For create new administrator use `py manage.py createsuperuser`
